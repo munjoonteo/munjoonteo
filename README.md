@@ -1,4 +1,4 @@
-### Hi there!
+## Hi there!
 
 I'm Mun Joon (he/him), a final year Software Engineering student at UNSW and aspiring software engineer based in Sydney, Australia. I currently lead the development of [Notangles](https://notangles.csesoc.app), a timetabling application for students at UNSW.
 
