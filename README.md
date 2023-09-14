@@ -1,7 +1,7 @@
 ## Hi there!
 
-I'm Mun Joon (he/him), a final year Software Engineering student at UNSW and aspiring software engineer based in Sydney, Australia. I currently lead the development of [Notangles](https://notangles.csesoc.app), a timetabling application for students at UNSW.
+I'm Mun Joon (he/him), a software engineer recently graduated from UNSW and based in Sydney, Australia.
 
-I have experience in full-stack web development, especially React and Express. I have also been tinkering with some more low-level code in my C++ chess engine.
+I have experience in low-latency C++ programming, as well as full-stack web development, especially React and Express.
 
 Check out my personal website [here](https://munjoonteo.netlify.app/)!
