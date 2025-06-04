@@ -1,7 +1,7 @@
 ## Hi there!
 
-I'm Mun Joon (he/him), a software engineer recently graduated from UNSW and based in Sydney, Australia.
+I'm Mun Joon (he/him), a software engineer based in Tokyo, Japan.
 
-I have experience in low-latency C++ programming, as well as full-stack web development, especially React and Express.
+I have experience in full-stack web development, especially React and FastAPI. I also have juggled various UI design and DevOps duties.
 
 Check out my personal website [here](https://munjoonteo.netlify.app/)!
