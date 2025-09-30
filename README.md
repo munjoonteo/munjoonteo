@@ -1,7 +1,5 @@
 ## Hi there!
 
-I'm Mun Joon (he/him), a software engineer based in Tokyo, Japan.
-
-I have experience in full-stack web development, especially React and FastAPI. I also have juggled various UI design and DevOps duties.
+I'm Mun Joon (he/him), a frontend software engineer at Rakuten based in Tokyo, Japan.
 
 Check out my personal website [here](https://munjoonteo.netlify.app/)!
